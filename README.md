@@ -9,11 +9,13 @@ This repository hosts the Android App Capstone Project of the Meta Android Devel
 
 ## Design
 LittleLemon/app/src/main/res/drawable/design.png
+![design](https://github.com/Ezra-Men/Meta_Android_Capstone/assets/153892329/aba72a2c-82c3-41a4-9d3a-bdf615b39c3f).
+
 
 
 ## Wireframe
 LittleLemon/app/src/main/res/drawable/wireframe.png
-
+![wireframe](https://github.com/Ezra-Men/Meta_Android_Capstone/assets/153892329/6438e36f-cc80-452a-91c0-27ef02598f1b)
 
 ## Tech Stack
 
